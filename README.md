@@ -17,7 +17,8 @@ Automatycznie wykonuje job w ustalonych odstępach czasu.
 
 Projekt może być wykorzystany do automatycznego przetwarzania i analizy danych sprzedażowych, a także do generowania raportów dla biznesu.
 
-🛠 Wykorzystane technologie
+
+Wykorzystane technologie
 
 Pentaho Data Integration (PDI) – Spoon, Kitchen
 
@@ -25,7 +26,8 @@ MySQL (XAMPP) – baza danych
 
 CSV, Excel – formaty eksportu
 
-⚙ Jak uruchomić projekt?
+
+Jak uruchomić projekt?
 
 Wymagania
 
